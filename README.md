@@ -35,3 +35,5 @@ Students often struggle with fragmented course materials (scattered across YouTu
 - Source Citation UI          - Bayesian Knowledge Tracing (BKT)
 - Timestamp & Slide Jump      - Diagnostic Tree Intake Quiz
 - Out-of-Syllabus Guardrail   - Dual-Model Cross-Validation (Groq/DeepSeek)
+
+TEAM MATES(DURGESHNANDANI,AYANSHU,AKSHITA,UTKARSH)
