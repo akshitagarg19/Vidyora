@@ -1,4 +1,4 @@
-# 🎓 Vidyora — Personalized Tutoring & Adaptive Learning Companion
+# 🎓 Vidyora — Personalized Tutoring & Adaptive Learning Companion 
 
 > **Multimodal AI Hackathon 2026 • Track D (IIT Mandi)**  
 > An AI-powered study companion that unifies lecture videos, textbooks, and slide decks into a source-grounded knowledge base, featuring Bayesian Knowledge Tracing (BKT) and adaptive assessments.
@@ -35,3 +35,5 @@ Students often struggle with fragmented course materials (scattered across YouTu
 - Source Citation UI          - Bayesian Knowledge Tracing (BKT)
 - Timestamp & Slide Jump      - Diagnostic Tree Intake Quiz
 - Out-of-Syllabus Guardrail   - Dual-Model Cross-Validation (Groq/DeepSeek)
+
+TEAM MATES(SHRADDHA , AYANSHU,AKSHITA , UTKARSH)
