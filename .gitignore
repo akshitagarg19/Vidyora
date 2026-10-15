@@ -1,7 +1,18 @@
 
+# Environment variables and API keys (CRITICAL - DO NOT COMMIT SECRETS)
+.env
+.env.*
+*.env
+backend/.env
+
 # Python virtual environment
 .venv/
 venv/
+env/
+
+# Dependencies & Node modules
+node_modules/
+bun.lockb
 
 # Python cache files
 __pycache__/
